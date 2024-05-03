@@ -13,3 +13,6 @@
 ✓ Relation between age and gender based on numbers of order?
 ✓ Which channel is contributing to maximum sales?
 ✓ Highest selling category? etc...
+
+
+![Screenshot 2024-05-04 001913](https://github.com/Kailash0099/Excel_project/assets/124036227/cebf30f3-48e0-4507-967d-85dbef4efa04)
